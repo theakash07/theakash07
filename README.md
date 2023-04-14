@@ -3,7 +3,7 @@
 <h3 align="center">A passionate DevOps Enthusiasist in India !</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113254843/232047618-b2b33c65-9610-4f15-8a79-65cf4040ffd2.png"
 
-<p align="left"> <a href="https://twitter.com/thekash07_" target="blank"><img src="https://img.shields.io/twitter/follow/thekash07_?logo=twitter&style=for-the-badge" alt="thekash07_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/theakash07_" target="blank"><img src="https://img.shields.io/twitter/follow/theakash07_?logo=twitter&style=for-the-badge" alt="theakash07_" /></a> </p>
 
 - 🔭 I’m currently working on **Automatic_desk_management**
 
