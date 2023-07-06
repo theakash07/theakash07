@@ -1,21 +1,21 @@
-![logo](https://github.com/theakash07/theakash07/blob/main/Screenshot%20from%202023-04-14%2018-05-37.png)
+![logo](https://github.com/theakash07/theakash07/blob/main/)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate DevOps Enthusiasist in India !</h3>
+<h3 align="center">A passionate Data Science Enthusiasist in India !</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113254843/232047618-b2b33c65-9610-4f15-8a79-65cf4040ffd2.png"
 
 <p align="left"> <a href="https://twitter.com/theakash07_" target="blank"><img src="https://img.shields.io/twitter/follow/theakash07_?logo=twitter&style=for-the-badge" alt="theakash07_" /></a> </p>
 
-- 🔭 I’m currently working on **Automatic_desk_management**
+- 🔭 I’m currently working on **Data_Structures**
 
-- 🌱 I’m currently learning **DevOps | 8085 | python |**
+- 🌱 I’m currently learning **Data Structures|python|Higher_Mathematics**
 
 - 👯 I’m looking to collaborate on **github**
 
-- 🤝 I’m looking for help with **CI/CD pipeline**
+- 🤝 I’m looking for help with **Data_Structures**
 
 - 👨‍💻 All of my projects are available at [linkdln and Github](linkdln and Github)
 
-- 💬 Ask me about **AWS,Ansible,Cloud,kubernetes,Automation,Docker,linux**
+- 💬 Ask me about **Cloud,Automation,linux,Data_science,Social_Engineering**
 
 - 📫 How to reach me **theakash.bussiness07@gmail.com**
 
