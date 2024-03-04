@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/theakash07_" target="blank"><img src="https://img.shields.io/twitter/follow/theakash07_?logo=twitter&style=for-the-badge" alt="theakash07_" /></a> </p>
 
-- 🔭 I’m currently working on **OpenCv **
+- 🔭 I’m currently working on **OpenCv**
 
-- 🌱 I’m currently learning ** Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **github**
 
