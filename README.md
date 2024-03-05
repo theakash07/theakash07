@@ -1,8 +1,7 @@
 ![logo](https://github.com/theakash07/theakash07/blob/main/)
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A passionate AI/ML Enthusiasist!</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/FoVzfcqCDSb7zCynOp" width="480" height="480" frameBorder="0" class="giphy-embed"
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/theakash07/theakash07/assets/113254843/d7f5a181-68e0-44d9-a384-5a80acd4850b)"
 <p align="left"> <a href="https://twitter.com/theakash07_" target="blank"><img src="https://img.shields.io/twitter/follow/theakash07_?logo=twitter&style=for-the-badge" alt="theakash07_" /></a> </p>
 
 - 🔭 I’m currently working on **OpenCv**
