@@ -25,19 +25,6 @@ An innovative, business-oriented **Computer Science Engineering student** and te
 
 ---
 
-### 📊 Highlighted Professional Experience & Impact
-
-* **Confess | Co-Founder & Product Lead**
-    * Designed and engineered a voice-based mental well-being platform MVP ahead of schedule using structured OOP paradigms.
-    * Mapped dynamic user personas and analyzed behavioral analytics to drive feature iterations, achieving **1,000+ user engagements** within 3 months.
-* **RoboClub | Head of Innovation**
-    * Managed the product conceptualization pipeline, helping cross-functional student engineering teams convert core technical logic into high-potential, patent-ready prototypes.
-    * Spearheaded comprehensive Intellectual Property Rights (IPR) reviews, leading to the successful filing of **2 product patents** within a fast-moving 4-month development cycle.
-* **ISTE-Student Chapter CU | General Secretary**
-    * Directed end-to-end operational execution for 5+ large-scale technical workshops, driving a **25% increase** in overall student participation.
-    * Engineered digital student feedback loops to monitor engagement metrics, optimizing operational workflows to reduce administrative delays by **40%**.
-
----
 
 ### 📜 Patents, Publications & Certifications
 
@@ -45,7 +32,6 @@ An innovative, business-oriented **Computer Science Engineering student** and te
 * **IEEE Publication (2024):** Co-authored *"Machine Learning Approaches for Enhanced Detection and Management of Hypertrophic Cardiomyopathy,"* focusing on robust analytical data modeling.
 * **Professional Credentials:** * Google Data Analytics Professional
     * Microsoft Power BI Data Analyst
-    * Tableau Business Intelligence Analyst
     * Microsoft Excel Professional
 
 ---
